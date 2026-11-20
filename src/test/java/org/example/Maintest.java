@@ -2,7 +2,7 @@ package org.example;
 import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
-public class maintest {
+public class Maintest {
     @Test
     void testfor35mark(){
         int result=Main.testgrade(35);
